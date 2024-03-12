@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: Rye;
+    src: url(../fonts/Rye-Regular.ttf);
+}
+h1{font-family: Rye!important;
+	src: url(../fonts/Rye-Regular.ttf);
+    font-size: 100px;
+    color: #fff;    
+    font-display: Center;
+}
+
+body{
+    background-color: black;
+}
